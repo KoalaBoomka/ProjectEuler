@@ -1,4 +1,4 @@
-package koalaboomka.projecteuler;
+package koalaboomka.projecteuler.problem1;
 
 public class MultiplesOf3And5 {
     public static void main(String[] args) {
